@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wikiRun.iml" filepath="$PROJECT_DIR$/wikiRun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wikirun.iml" filepath="$PROJECT_DIR$/wikirun.iml" />
     </modules>
   </component>
 </project>
